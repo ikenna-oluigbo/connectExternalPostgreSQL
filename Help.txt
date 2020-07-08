@@ -1,0 +1,7 @@
+** This Script gives shows how to connect to an external PostgreSQL Server Interfaced by a Local PostgreSQL Server
+	
+** Note that a Database Instance would already be running on the Local and External Server. 
+
+** Enter Details of the Local and External Server as default before running the script, as well as path to the CSV resource.
+
+** The Updated files are automatically saved and pulled from your machine. 
